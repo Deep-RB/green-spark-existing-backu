@@ -1,0 +1,13 @@
+{
+  "single_burner_stock": 30,
+  "single_lid_stock": 30,
+  "single_strainer_stock": 30,
+  "double_burner_stock": 200,
+  "double_lid_stock": 220,
+  "double_strainer_stock": 170,
+  "chimney_stock": 260,
+  "ring_stock": 200,
+  "cap_stock": 250,
+  "single_burner_sales": 30,
+  "double_burner_sales": 170
+}

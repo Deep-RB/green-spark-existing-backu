@@ -1,0 +1,10 @@
+{
+  "id": 48,
+  "username": "admin11",
+  "email": "admin11@gmail.com",
+  "first_name": "Admin",
+  "last_name": "11",
+  "role": "admin",
+  "is_active": true,
+  "profile_picture": "https://ics.greensparksolutions.com/media/profile_pic/garden.png"
+}

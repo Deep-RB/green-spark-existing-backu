@@ -1,0 +1,92 @@
+{
+  "base": "https://greensparksolutions.com",
+  "crawled_at": "2026-11-26T00:41:14Z",
+  "routes": [
+    "/",
+    "/about-us",
+    "/contact-us",
+    "/events",
+    "/events/green-ics-bangladesh",
+    "/events/green-ics-bangladesh-part-three",
+    "/events/green-ics-bangladesh-part-two",
+    "/gallery",
+    "/projects"
+  ],
+  "assets_fetched": 30,
+  "public_files": [
+    "/images/ics/event2/1.jpg",
+    "/images/ics/event2/10.jpg",
+    "/images/ics/event2/11.jpg",
+    "/images/ics/event2/12.jpg",
+    "/images/ics/event2/13.jpg",
+    "/images/ics/event2/2.jpg",
+    "/images/ics/event2/3.jpg",
+    "/images/ics/event2/4.jpg",
+    "/images/ics/event2/5.jpg",
+    "/images/ics/event2/6.jpg",
+    "/images/ics/event2/7.jpg",
+    "/images/ics/event2/8.jpg",
+    "/images/ics/event2/9.jpg",
+    "/images/ics/event3/1.jpg",
+    "/images/ics/event3/10.jpg",
+    "/images/ics/event3/11.jpg",
+    "/images/ics/event3/12.jpg",
+    "/images/ics/event3/13.jpg",
+    "/images/ics/event3/2.jpg",
+    "/images/ics/event3/3.jpg",
+    "/images/ics/event3/4.jpg",
+    "/images/ics/event3/5.jpg",
+    "/images/ics/event3/6.jpg",
+    "/images/ics/event3/7.jpg",
+    "/images/ics/event3/8.jpg",
+    "/images/ics/event3/9.jpg",
+    "/images/logo/green-spark-solutions-ltd-logo.png"
+  ],
+  "log": [
+    {
+      "route": "/",
+      "status": 200,
+      "final_url": "https://greensparksolutions.com/"
+    },
+    {
+      "route": "/about-us",
+      "status": 200,
+      "final_url": "https://greensparksolutions.com/about-us"
+    },
+    {
+      "route": "/contact-us",
+      "status": 200,
+      "final_url": "https://greensparksolutions.com/contact-us"
+    },
+    {
+      "route": "/events",
+      "status": 200,
+      "final_url": "https://greensparksolutions.com/events"
+    },
+    {
+      "route": "/events/green-ics-bangladesh",
+      "status": 200,
+      "final_url": "https://greensparksolutions.com/events/green-ics-bangladesh"
+    },
+    {
+      "route": "/events/green-ics-bangladesh-part-three",
+      "status": 200,
+      "final_url": "https://greensparksolutions.com/events/green-ics-bangladesh-part-three"
+    },
+    {
+      "route": "/events/green-ics-bangladesh-part-two",
+      "status": 200,
+      "final_url": "https://greensparksolutions.com/events/green-ics-bangladesh-part-two"
+    },
+    {
+      "route": "/gallery",
+      "status": 200,
+      "final_url": "https://greensparksolutions.com/gallery"
+    },
+    {
+      "route": "/projects",
+      "status": 200,
+      "final_url": "https://greensparksolutions.com/projects"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+[
+  {
+    "id": 11,
+    "name": "Dhaka",
+    "districts": [
+      {
+        "id": 18,
+        "name": "Manikganj",
+        "upazilas": [
+          {
+            "id": 14,
+            "name": "Harirampur",
+            "regions": [
+              {
+                "id": 13,
+                "name": "Harirampur",
+                "unions": []
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Manikganj Sadar",
+            "regions": [
+              {
+                "id": 9,
+                "name": "Manikganj Sadar",
+                "unions": [
+                  {
+                    "id": 3,
+                    "name": "Manikganj Municipality",
+                    "villages": [
+                      {
+                        "id": 3,
+                        "name": "Joynagar"
+                      },
+                      {
+                        "id": 4,
+                        "name": "Andharmanik"
+                      },
+                      {
+                        "id": 5,
+                        "name": "Char Beotha"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 4,
+                    "name": "Jagir",
+                    "villages": [
+                      {
+                        "id": 6,
+                        "name": "Ukiara"
+                      },
+                      {
+                        "id": 7,
+                        "name": "Dhakuli"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Ghior",
+            "regions": [
+              {
+                "id": 12,
+                "name": "Ghior",
+                "unions": [
+                  {
+                    "id": 2,
+                    "name": "Nali",
+                    "villages": [
+                      {
+                        "id": 2,
+                        "name": "Ramdiya Nali"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Shibalaya",
+            "regions": [
+              {
+                "id": 15,
+                "name": "Shibalaya",
+                "unions": []
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Singair",
+            "regions": [
+              {
+                "id": 16,
+                "name": "Singair",
+                "unions": []
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Daulatpur",
+            "regions": [
+              {
+                "id": 7,
+                "name": "Daulatpur",
+                "unions": []
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Saturia",
+            "regions": [
+              {
+                "id": 14,
+                "name": "Saturia",
+                "unions": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Sylhet",
+    "districts": []
+  },
+  {
+    "id": 19,
+    "name": "Khulna",
+    "districts": [
+      {
+        "id": 19,
+        "name": "Bagerhat",
+        "upazilas": [
+          {
+            "id": 20,
+            "name": "Mongla",
+            "regions": [
+              {
+                "id": 17,
+                "name": "Mongla",
+                "unions": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Rajshahi",
+    "districts": []
+  },
+  {
+    "id": 21,
+    "name": "Rangpur",
+    "districts": []
+  },
+  {
+    "id": 22,
+    "name": "Chaittagong",
+    "districts": [
+      {
+        "id": 20,
+        "name": "Khagrachhari",
+        "upazilas": [
+          {
+            "id": 21,
+            "name": "Ramgarh",
+            "regions": [
+              {
+                "id": 18,
+                "name": "Ramgarh",
+                "unions": [
+                  {
+                    "id": 5,
+                    "name": "Ramgarh Municipality",
+                    "villages": [
+                      {
+                        "id": 8,
+                        "name": "Master Para"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Mymensingh",
+    "districts": []
+  },
+  {
+    "id": 24,
+    "name": "Barishal",
+    "districts": []
+  }
+]

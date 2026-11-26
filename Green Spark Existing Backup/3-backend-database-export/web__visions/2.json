@@ -1,0 +1,23 @@
+{
+  "id": 2,
+  "title": "Our Vision",
+  "description": "Green Spark Solutions Australia drives sustainable development, clean energy access, and community empowerment",
+  "image": "https://ics.greensparksolutions.com/media/vision/img2.jpeg",
+  "attributes": [
+    {
+      "id": 3,
+      "title": "Environmental and Social Impact",
+      "description": "Green Spark Solutions Australia is dedicated to fostering environmentally conscious and compassionate development in Bangladesh."
+    },
+    {
+      "id": 4,
+      "title": "Global Access to Clean Energy",
+      "description": "We envision a world where everyone has access to clean energy and a healthy environment."
+    },
+    {
+      "id": 5,
+      "title": "Innovative Solutions and Community Empowerment",
+      "description": "By offering innovative solutions and empowering communities, we aim to make a lasting difference."
+    }
+  ]
+}

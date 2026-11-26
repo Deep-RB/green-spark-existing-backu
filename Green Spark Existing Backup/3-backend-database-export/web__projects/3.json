@@ -1,0 +1,26 @@
+{
+  "id": 3,
+  "title": "Green Improved Cookstove",
+  "description": "[\"One of our key initiatives is the development and distribution of improved cookstoves in Bangladesh. Recognizing the significant health and environmental risks associated with traditional cooking methods, We created Green ICS with an emphasis on local knowledge and ease of use after hearing negative remarks about the existing ICS on the market.\",\"Our Green ICS is known for its high efficiency, user-friendliness, and low maintenance requirements. We Partnered with local communities and organizations to introduce cleaner and more efficient alternatives.\"]",
+  "image": "https://ics.greensparksolutions.com/media/project_images/WhatsApp_Image_2024-09-24_at_7.34.15_PM_fOJDQOv.jpeg",
+  "attributes": [
+    {
+      "id": 22,
+      "icon": null,
+      "title": "Reduced indoor air pollution",
+      "description": "Green improved cookstoves reduce harmful pollutants from traditional cooking methods, thereby improving respiratory health outcomes, particularly for women and children."
+    },
+    {
+      "id": 23,
+      "icon": null,
+      "title": "Increased efficiency",
+      "description": "Green ICS designed to consume less fuel, reducing the need for deforestation and providing economic benefits to households."
+    },
+    {
+      "id": 24,
+      "icon": null,
+      "title": "Improved cooking conditions",
+      "description": "Our stoves offer safer and more comfortable cooking experiences, enhancing the quality of life for families"
+    }
+  ]
+}

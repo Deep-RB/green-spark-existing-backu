@@ -1,0 +1,10 @@
+{
+  "total_clients": 200,
+  "total_cookstove_sales": 200,
+  "total_single_cookstove_sales": 30,
+  "total_double_cookstove_sales": 170,
+  "active_clients": 200,
+  "total_monitoring": 0,
+  "single_ics_stock": 30,
+  "double_ics_stock": 200
+}

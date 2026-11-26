@@ -1,0 +1,24 @@
+{
+  "id": 7,
+  "date": "04-02-2025",
+  "double_burner": 1,
+  "double_lid": 1,
+  "double_strainer": 1,
+  "single_burner": null,
+  "single_lid": null,
+  "single_strainer": null,
+  "chimeny": 2,
+  "ring": 1,
+  "cap": 1,
+  "remarks": null,
+  "product": 11,
+  "product_details": {
+    "id": 11,
+    "title": "Double Burner Stove"
+  },
+  "warehouse": 12,
+  "warehouse_details": {
+    "id": 12,
+    "name": "Ghior"
+  }
+}

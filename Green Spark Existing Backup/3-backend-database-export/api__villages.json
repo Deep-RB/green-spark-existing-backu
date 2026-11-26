@@ -1,0 +1,261 @@
+[
+  {
+    "id": 2,
+    "union": {
+      "id": 2,
+      "name": "Nali",
+      "region": {
+        "id": 12,
+        "name": "Ghior",
+        "latitude": null,
+        "longitude": null,
+        "division": {
+          "id": 11,
+          "name": "Dhaka",
+          "created_at": "2024-11-02T06:25:20.256746Z",
+          "updated_at": "2024-11-02T06:25:20.256751Z"
+        },
+        "district": {
+          "id": 18,
+          "name": "Manikganj",
+          "created_at": "2024-11-02T05:35:33.027736Z",
+          "updated_at": "2024-11-02T05:35:33.027752Z",
+          "division": 11
+        },
+        "upazila": {
+          "id": 16,
+          "name": "Ghior",
+          "created_at": "2024-11-23T07:21:09.171918Z",
+          "updated_at": "2024-11-23T07:21:09.171939Z",
+          "division": 11,
+          "district": 18
+        },
+        "created_at": "2025-01-26T06:52:24.541992Z",
+        "updated_at": "2025-01-26T06:52:24.541999Z"
+      }
+    },
+    "name": "Ramdiya Nali"
+  },
+  {
+    "id": 3,
+    "union": {
+      "id": 3,
+      "name": "Manikganj Municipality",
+      "region": {
+        "id": 9,
+        "name": "Manikganj Sadar",
+        "latitude": null,
+        "longitude": null,
+        "division": {
+          "id": 11,
+          "name": "Dhaka",
+          "created_at": "2024-11-02T06:25:20.256746Z",
+          "updated_at": "2024-11-02T06:25:20.256751Z"
+        },
+        "district": {
+          "id": 18,
+          "name": "Manikganj",
+          "created_at": "2024-11-02T05:35:33.027736Z",
+          "updated_at": "2024-11-02T05:35:33.027752Z",
+          "division": 11
+        },
+        "upazila": {
+          "id": 15,
+          "name": "Manikganj Sadar",
+          "created_at": "2024-11-02T06:11:20.503772Z",
+          "updated_at": "2024-11-02T06:11:20.503792Z",
+          "division": 11,
+          "district": 18
+        },
+        "created_at": "2024-12-11T05:46:15.630494Z",
+        "updated_at": "2024-12-11T05:46:15.630502Z"
+      }
+    },
+    "name": "Joynagar"
+  },
+  {
+    "id": 4,
+    "union": {
+      "id": 3,
+      "name": "Manikganj Municipality",
+      "region": {
+        "id": 9,
+        "name": "Manikganj Sadar",
+        "latitude": null,
+        "longitude": null,
+        "division": {
+          "id": 11,
+          "name": "Dhaka",
+          "created_at": "2024-11-02T06:25:20.256746Z",
+          "updated_at": "2024-11-02T06:25:20.256751Z"
+        },
+        "district": {
+          "id": 18,
+          "name": "Manikganj",
+          "created_at": "2024-11-02T05:35:33.027736Z",
+          "updated_at": "2024-11-02T05:35:33.027752Z",
+          "division": 11
+        },
+        "upazila": {
+          "id": 15,
+          "name": "Manikganj Sadar",
+          "created_at": "2024-11-02T06:11:20.503772Z",
+          "updated_at": "2024-11-02T06:11:20.503792Z",
+          "division": 11,
+          "district": 18
+        },
+        "created_at": "2024-12-11T05:46:15.630494Z",
+        "updated_at": "2024-12-11T05:46:15.630502Z"
+      }
+    },
+    "name": "Andharmanik"
+  },
+  {
+    "id": 5,
+    "union": {
+      "id": 3,
+      "name": "Manikganj Municipality",
+      "region": {
+        "id": 9,
+        "name": "Manikganj Sadar",
+        "latitude": null,
+        "longitude": null,
+        "division": {
+          "id": 11,
+          "name": "Dhaka",
+          "created_at": "2024-11-02T06:25:20.256746Z",
+          "updated_at": "2024-11-02T06:25:20.256751Z"
+        },
+        "district": {
+          "id": 18,
+          "name": "Manikganj",
+          "created_at": "2024-11-02T05:35:33.027736Z",
+          "updated_at": "2024-11-02T05:35:33.027752Z",
+          "division": 11
+        },
+        "upazila": {
+          "id": 15,
+          "name": "Manikganj Sadar",
+          "created_at": "2024-11-02T06:11:20.503772Z",
+          "updated_at": "2024-11-02T06:11:20.503792Z",
+          "division": 11,
+          "district": 18
+        },
+        "created_at": "2024-12-11T05:46:15.630494Z",
+        "updated_at": "2024-12-11T05:46:15.630502Z"
+      }
+    },
+    "name": "Char Beotha"
+  },
+  {
+    "id": 6,
+    "union": {
+      "id": 4,
+      "name": "Jagir",
+      "region": {
+        "id": 9,
+        "name": "Manikganj Sadar",
+        "latitude": null,
+        "longitude": null,
+        "division": {
+          "id": 11,
+          "name": "Dhaka",
+          "created_at": "2024-11-02T06:25:20.256746Z",
+          "updated_at": "2024-11-02T06:25:20.256751Z"
+        },
+        "district": {
+          "id": 18,
+          "name": "Manikganj",
+          "created_at": "2024-11-02T05:35:33.027736Z",
+          "updated_at": "2024-11-02T05:35:33.027752Z",
+          "division": 11
+        },
+        "upazila": {
+          "id": 15,
+          "name": "Manikganj Sadar",
+          "created_at": "2024-11-02T06:11:20.503772Z",
+          "updated_at": "2024-11-02T06:11:20.503792Z",
+          "division": 11,
+          "district": 18
+        },
+        "created_at": "2024-12-11T05:46:15.630494Z",
+        "updated_at": "2024-12-11T05:46:15.630502Z"
+      }
+    },
+    "name": "Ukiara"
+  },
+  {
+    "id": 7,
+    "union": {
+      "id": 4,
+      "name": "Jagir",
+      "region": {
+        "id": 9,
+        "name": "Manikganj Sadar",
+        "latitude": null,
+        "longitude": null,
+        "division": {
+          "id": 11,
+          "name": "Dhaka",
+          "created_at": "2024-11-02T06:25:20.256746Z",
+          "updated_at": "2024-11-02T06:25:20.256751Z"
+        },
+        "district": {
+          "id": 18,
+          "name": "Manikganj",
+          "created_at": "2024-11-02T05:35:33.027736Z",
+          "updated_at": "2024-11-02T05:35:33.027752Z",
+          "division": 11
+        },
+        "upazila": {
+          "id": 15,
+          "name": "Manikganj Sadar",
+          "created_at": "2024-11-02T06:11:20.503772Z",
+          "updated_at": "2024-11-02T06:11:20.503792Z",
+          "division": 11,
+          "district": 18
+        },
+        "created_at": "2024-12-11T05:46:15.630494Z",
+        "updated_at": "2024-12-11T05:46:15.630502Z"
+      }
+    },
+    "name": "Dhakuli"
+  },
+  {
+    "id": 8,
+    "union": {
+      "id": 5,
+      "name": "Ramgarh Municipality",
+      "region": {
+        "id": 18,
+        "name": "Ramgarh",
+        "latitude": null,
+        "longitude": null,
+        "division": {
+          "id": 22,
+          "name": "Chaittagong",
+          "created_at": "2025-06-17T03:17:47.698234Z",
+          "updated_at": "2025-06-17T03:17:47.698241Z"
+        },
+        "district": {
+          "id": 20,
+          "name": "Khagrachhari",
+          "created_at": "2025-05-26T09:56:10.361490Z",
+          "updated_at": "2025-05-26T09:56:10.361510Z",
+          "division": 22
+        },
+        "upazila": {
+          "id": 21,
+          "name": "Ramgarh",
+          "created_at": "2025-06-17T03:18:56.060246Z",
+          "updated_at": "2025-06-17T03:18:56.060262Z",
+          "division": 22,
+          "district": 20
+        },
+        "created_at": "2025-06-17T03:19:41.717275Z",
+        "updated_at": "2025-06-17T03:19:41.717296Z"
+      }
+    },
+    "name": "Master Para"
+  }
+]

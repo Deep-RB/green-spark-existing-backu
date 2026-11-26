@@ -1,0 +1,24 @@
+{
+  "id": 9,
+  "date": "10-07-2025",
+  "double_burner": null,
+  "double_lid": null,
+  "double_strainer": null,
+  "single_burner": 30,
+  "single_lid": 30,
+  "single_strainer": 30,
+  "chimeny": 250,
+  "ring": 200,
+  "cap": 250,
+  "remarks": "All Ok",
+  "product": 10,
+  "product_details": {
+    "id": 10,
+    "title": "Single Burner Stove"
+  },
+  "warehouse": 18,
+  "warehouse_details": {
+    "id": 18,
+    "name": "Ramgarh"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 8,
+  "date": "01-02-2025",
+  "double_burner": null,
+  "double_lid": null,
+  "double_strainer": null,
+  "single_burner": 30,
+  "single_lid": 30,
+  "single_strainer": 30,
+  "chimeny": 30,
+  "ring": 30,
+  "cap": 30,
+  "remarks": null,
+  "product": 10,
+  "product_details": {
+    "id": 10,
+    "title": "Single Burner Stove"
+  },
+  "warehouse": 9,
+  "warehouse_details": {
+    "id": 9,
+    "name": "Manikganj Sadar"
+  }
+}

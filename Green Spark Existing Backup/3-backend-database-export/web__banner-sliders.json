@@ -1,0 +1,26 @@
+[
+  {
+    "id": 14,
+    "image": "https://ics.greensparksolutions.com/media/banners/3_53oOu30.png",
+    "serial": 101,
+    "status": true
+  },
+  {
+    "id": 15,
+    "image": "https://ics.greensparksolutions.com/media/banners/4_MO72ndx.png",
+    "serial": 102,
+    "status": true
+  },
+  {
+    "id": 16,
+    "image": "https://ics.greensparksolutions.com/media/banners/5_PE9ePnD.png",
+    "serial": 103,
+    "status": true
+  },
+  {
+    "id": 8,
+    "image": "https://ics.greensparksolutions.com/media/banners/Untitled_design.png",
+    "serial": 104,
+    "status": false
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "id": 2,
+  "title": "Our Approach",
+  "description": "Green Spark Solutions Australia adopts a holistic approach to our projects, focusing on:",
+  "image": "https://ics.greensparksolutions.com/media/approch/img1.jpeg",
+  "attributes": [
+    {
+      "id": 57,
+      "title": "Community engagement",
+      "description": "We work closely with local communities to understand their specific needs and preferences, ensuring that our solutions are culturally appropriate and sustainable."
+    },
+    {
+      "id": 58,
+      "title": "Partnerships",
+      "description": "We collaborate with government agencies, NGOs, and private sector organizations to leverage their expertise and resources, maximizing our impact."
+    },
+    {
+      "id": 59,
+      "title": "Research and development",
+      "description": "We invest in research and development to continuously improve our products and explore new technologies that can address emerging challenges."
+    }
+  ]
+}

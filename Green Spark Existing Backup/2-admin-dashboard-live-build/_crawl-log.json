@@ -1,0 +1,308 @@
+{
+  "base": "https://admin.greensparksolutions.com",
+  "crawled_at": "2026-11-26T00:40:17Z",
+  "routes": [
+    "/",
+    "/a/b",
+    "/a/i",
+    "/auth/forgot-password",
+    "/auth/forgot-password/reset",
+    "/auth/signin",
+    "/client",
+    "/client/create",
+    "/client/edit",
+    "/client/map",
+    "/fulfilled",
+    "/pending",
+    "/product",
+    "/product/inventory",
+    "/product/inventory/summary",
+    "/profile",
+    "/region/district",
+    "/region/division",
+    "/region/region",
+    "/region/union",
+    "/region/upazila",
+    "/region/village",
+    "/rejected",
+    "/sale",
+    "/sale/create",
+    "/sale/edit",
+    "/sale/map",
+    "/sale/monitor",
+    "/sale/monitor-map",
+    "/sale/monitor/add",
+    "/survey",
+    "/survey/create",
+    "/survey/edit",
+    "/survey/map",
+    "/user/admin",
+    "/user/manager",
+    "/user/supervisor",
+    "/user/user",
+    "/web/approach",
+    "/web/contact",
+    "/web/event",
+    "/web/event/create",
+    "/web/event/edit",
+    "/web/gallery",
+    "/web/project",
+    "/web/project/create",
+    "/web/slider",
+    "/web/social-link",
+    "/web/vision"
+  ],
+  "assets_fetched": 109,
+  "public_files": [
+    "/images/grids/grid-02.svg",
+    "/images/logo/green-ics-logo.png",
+    "/images/user/user-03.png"
+  ],
+  "log": [
+    {
+      "route": "/",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/"
+    },
+    {
+      "route": "/a/b",
+      "status": 404,
+      "final_url": "https://admin.greensparksolutions.com/a/b"
+    },
+    {
+      "route": "/a/i",
+      "status": 404,
+      "final_url": "https://admin.greensparksolutions.com/a/i"
+    },
+    {
+      "route": "/auth/forgot-password",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/auth/forgot-password"
+    },
+    {
+      "route": "/auth/forgot-password/reset",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/auth/forgot-password/reset"
+    },
+    {
+      "route": "/auth/signin",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/auth/signin"
+    },
+    {
+      "route": "/client",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/client"
+    },
+    {
+      "route": "/client/map",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/client/map"
+    },
+    {
+      "route": "/fulfilled",
+      "status": 404,
+      "final_url": "https://admin.greensparksolutions.com/fulfilled"
+    },
+    {
+      "route": "/pending",
+      "status": 404,
+      "final_url": "https://admin.greensparksolutions.com/pending"
+    },
+    {
+      "route": "/product",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/product"
+    },
+    {
+      "route": "/product/inventory",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/product/inventory"
+    },
+    {
+      "route": "/product/inventory/summary",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/product/inventory/summary"
+    },
+    {
+      "route": "/profile",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/profile"
+    },
+    {
+      "route": "/region/district",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/region/district"
+    },
+    {
+      "route": "/region/division",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/region/division"
+    },
+    {
+      "route": "/region/region",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/region/region"
+    },
+    {
+      "route": "/region/union",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/region/union"
+    },
+    {
+      "route": "/region/upazila",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/region/upazila"
+    },
+    {
+      "route": "/region/village",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/region/village"
+    },
+    {
+      "route": "/rejected",
+      "status": 404,
+      "final_url": "https://admin.greensparksolutions.com/rejected"
+    },
+    {
+      "route": "/sale",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/sale"
+    },
+    {
+      "route": "/sale/map",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/sale/map"
+    },
+    {
+      "route": "/sale/monitor",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/sale/monitor"
+    },
+    {
+      "route": "/sale/monitor-map",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/sale/monitor-map"
+    },
+    {
+      "route": "/survey",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/survey"
+    },
+    {
+      "route": "/survey/create",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/survey/create"
+    },
+    {
+      "route": "/survey/map",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/survey/map"
+    },
+    {
+      "route": "/user/admin",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/user/admin"
+    },
+    {
+      "route": "/user/manager",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/user/manager"
+    },
+    {
+      "route": "/user/supervisor",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/user/supervisor"
+    },
+    {
+      "route": "/user/user",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/user/user"
+    },
+    {
+      "route": "/web/approach",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/web/approach"
+    },
+    {
+      "route": "/web/contact",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/web/contact"
+    },
+    {
+      "route": "/web/event",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/web/event"
+    },
+    {
+      "route": "/web/gallery",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/web/gallery"
+    },
+    {
+      "route": "/web/project",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/web/project"
+    },
+    {
+      "route": "/web/slider",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/web/slider"
+    },
+    {
+      "route": "/web/social-link",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/web/social-link"
+    },
+    {
+      "route": "/web/vision",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/web/vision"
+    },
+    {
+      "route": "/client/edit",
+      "status": 404,
+      "final_url": "https://admin.greensparksolutions.com/client/edit"
+    },
+    {
+      "route": "/client/create",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/client/create"
+    },
+    {
+      "route": "/sale/monitor/add",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/sale/monitor/add"
+    },
+    {
+      "route": "/sale/edit",
+      "status": 404,
+      "final_url": "https://admin.greensparksolutions.com/sale/edit"
+    },
+    {
+      "route": "/sale/create",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/sale/create"
+    },
+    {
+      "route": "/survey/edit",
+      "status": 404,
+      "final_url": "https://admin.greensparksolutions.com/survey/edit"
+    },
+    {
+      "route": "/web/event/edit",
+      "status": 404,
+      "final_url": "https://admin.greensparksolutions.com/web/event/edit"
+    },
+    {
+      "route": "/web/event/create",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/web/event/create"
+    },
+    {
+      "route": "/web/project/create",
+      "status": 200,
+      "final_url": "https://admin.greensparksolutions.com/web/project/create"
+    }
+  ]
+}

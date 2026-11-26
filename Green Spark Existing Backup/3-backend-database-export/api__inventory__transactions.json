@@ -1,0 +1,122 @@
+[
+  {
+    "id": 11,
+    "date": "15-07-2025",
+    "double_burner": 200,
+    "double_lid": 220,
+    "double_strainer": 170,
+    "single_burner": null,
+    "single_lid": null,
+    "single_strainer": null,
+    "chimeny": null,
+    "ring": 0,
+    "cap": null,
+    "remarks": null,
+    "product": 11,
+    "product_details": {
+      "id": 11,
+      "title": "Double Burner Stove"
+    },
+    "warehouse": 18,
+    "warehouse_details": {
+      "id": 18,
+      "name": "Ramgarh"
+    }
+  },
+  {
+    "id": 9,
+    "date": "10-07-2025",
+    "double_burner": null,
+    "double_lid": null,
+    "double_strainer": null,
+    "single_burner": 30,
+    "single_lid": 30,
+    "single_strainer": 30,
+    "chimeny": 250,
+    "ring": 200,
+    "cap": 250,
+    "remarks": "All Ok",
+    "product": 10,
+    "product_details": {
+      "id": 10,
+      "title": "Single Burner Stove"
+    },
+    "warehouse": 18,
+    "warehouse_details": {
+      "id": 18,
+      "name": "Ramgarh"
+    }
+  },
+  {
+    "id": 7,
+    "date": "04-02-2025",
+    "double_burner": 1,
+    "double_lid": 1,
+    "double_strainer": 1,
+    "single_burner": null,
+    "single_lid": null,
+    "single_strainer": null,
+    "chimeny": 2,
+    "ring": 1,
+    "cap": 1,
+    "remarks": null,
+    "product": 11,
+    "product_details": {
+      "id": 11,
+      "title": "Double Burner Stove"
+    },
+    "warehouse": 12,
+    "warehouse_details": {
+      "id": 12,
+      "name": "Ghior"
+    }
+  },
+  {
+    "id": 8,
+    "date": "01-02-2025",
+    "double_burner": null,
+    "double_lid": null,
+    "double_strainer": null,
+    "single_burner": 30,
+    "single_lid": 30,
+    "single_strainer": 30,
+    "chimeny": 30,
+    "ring": 30,
+    "cap": 30,
+    "remarks": null,
+    "product": 10,
+    "product_details": {
+      "id": 10,
+      "title": "Single Burner Stove"
+    },
+    "warehouse": 9,
+    "warehouse_details": {
+      "id": 9,
+      "name": "Manikganj Sadar"
+    }
+  },
+  {
+    "id": 4,
+    "date": "01-02-2025",
+    "double_burner": 169,
+    "double_lid": 169,
+    "double_strainer": 169,
+    "single_burner": null,
+    "single_lid": null,
+    "single_strainer": null,
+    "chimeny": 178,
+    "ring": 169,
+    "cap": 169,
+    "remarks": "All Ok",
+    "product": 11,
+    "product_details": {
+      "id": 11,
+      "title": "Double Burner Stove"
+    },
+    "warehouse": 9,
+    "warehouse_details": {
+      "id": 9,
+      "name": "Manikganj Sadar"
+    }
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "id": 98,
+  "introducer_date": "21-11-2024",
+  "representative_name": "Md Rakibul Islam",
+  "representative_id": "GSSL007",
+  "head_office_location": {
+    "id": 15,
+    "name": "Manikganj Sadar",
+    "created_at": "2024-11-02T06:11:20.503772Z",
+    "updated_at": "2024-11-02T06:11:20.503792Z",
+    "division": 11,
+    "district": 18
+  },
+  "area_manager": "Md Monir Hossen",
+  "name": "Rekha Churnokar",
+  "date_of_birth": "21-03-1970",
+  "national_id": "4180021760",
+  "sex": "female",
+  "address": "Joynagar, Manikganj Municipality, Manikganj Sadar",
+  "house_no": "17",
+  "word_no": "8",
+  "upazila": {
+    "id": 15,
+    "name": "Manikganj Sadar",
+    "created_at": "2024-11-02T06:11:20.503772Z",
+    "updated_at": "2024-11-02T06:11:20.503792Z",
+    "division": 11,
+    "district": 18
+  },
+  "union_id": 3,
+  "union": {
+    "id": 3,
+    "name": "Manikganj Municipality"
+  },
+  "village_id": 3,
+  "village": {
+    "id": 3,
+    "name": "Joynagar"
+  },
+  "total_family_members": 4,
+  "family_member_age_group": "1",
+  "no_of_adult_household": 2,
+  "no_of_children": 2,
+  "home_location_latitude": 23.8492849,
+  "home_location_longitude": 89.9774612,
+  "contact_no_mobile": "01304429535",
+  "email": "",
+  "device_id": "01857932855",
+  "cooking_device": "traditional",
+  "place_for_cooking": "indoor",
+  "type_of_fuel_used": "wood_bio_mixed",
+  "times_cook_per_day": "3",
+  "type_of_green_ics_offered": "double",
+  "date_of_collection": "21-11-2024",
+  "date_of_installation": "07-02-2025",
+  "field_user": {
+    "id": 55,
+    "username": "Rakibul",
+    "email": "mdrakibulislamrakib234@gmail.com",
+    "first_name": "Rakibul",
+    "last_name": "Islam",
+    "role": "field_user",
+    "is_active": true,
+    "profile_picture": null
+  },
+  "field_supervisor": {
+    "id": 48,
+    "username": "admin11",
+    "email": "admin11@gmail.com",
+    "first_name": "Admin",
+    "last_name": "11",
+    "role": "admin",
+    "is_active": true,
+    "profile_picture": "https://ics.greensparksolutions.com/media/profile_pic/garden.png"
+  },
+  "status": "created",
+  "region": {
+    "id": 9,
+    "name": "Manikganj Sadar",
+    "latitude": null,
+    "longitude": null,
+    "division": {
+      "id": 11,
+      "name": "Dhaka",
+      "created_at": "2024-11-02T06:25:20.256746Z",
+      "updated_at": "2024-11-02T06:25:20.256751Z"
+    },
+    "district": {
+      "id": 18,
+      "name": "Manikganj",
+      "created_at": "2024-11-02T05:35:33.027736Z",
+      "updated_at": "2024-11-02T05:35:33.027752Z",
+      "division": 11
+    },
+    "upazila": {
+      "id": 15,
+      "name": "Manikganj Sadar",
+      "created_at": "2024-11-02T06:11:20.503772Z",
+      "updated_at": "2024-11-02T06:11:20.503792Z",
+      "division": 11,
+      "district": 18
+    },
+    "created_at": "2024-12-11T05:46:15.630494Z",
+    "updated_at": "2024-12-11T05:46:15.630502Z"
+  },
+  "created_at": "2025-10-20T10:44:48.071380Z",
+  "updated_at": "2025-10-20T10:44:48.071388Z",
+  "form_no": "6",
+  "age_group_count_0_14": 2,
+  "age_group_count_15_59": 2,
+  "age_group_count_60_plus": 0,
+  "pdf_file": "https://ics.greensparksolutions.com/media/0006_CAF_esfrec1.pdf",
+  "image1": "https://ics.greensparksolutions.com/media/client/0006_1.jpg",
+  "image2": "https://ics.greensparksolutions.com/media/client/0006_2.jpg",
+  "image3": null,
+  "is_active": true
+}

@@ -1,0 +1,209 @@
+{
+  "source": "https://ics.greensparksolutions.com",
+  "exported_at": "2026-11-26T00:41:18Z",
+  "exported_as_user": "admin11",
+  "tables": {
+    "api__divisions": {
+      "endpoint": "https://ics.greensparksolutions.com/api/divisions/",
+      "status": 200,
+      "records": 8
+    },
+    "api__districts": {
+      "endpoint": "https://ics.greensparksolutions.com/api/districts/",
+      "status": 200,
+      "records": 3
+    },
+    "api__upazilas": {
+      "endpoint": "https://ics.greensparksolutions.com/api/upazilas/",
+      "status": 200,
+      "records": 9
+    },
+    "api__regions": {
+      "endpoint": "https://ics.greensparksolutions.com/api/regions/",
+      "status": 200,
+      "records": 9
+    },
+    "api__unions": {
+      "endpoint": "https://ics.greensparksolutions.com/api/unions/",
+      "status": 200,
+      "records": 4
+    },
+    "api__villages": {
+      "endpoint": "https://ics.greensparksolutions.com/api/villages/",
+      "status": 200,
+      "records": 7
+    },
+    "api__region-master-data": {
+      "endpoint": "https://ics.greensparksolutions.com/api/region-master-data/",
+      "status": 200,
+      "records": 8
+    },
+    "api__users": {
+      "endpoint": "https://ics.greensparksolutions.com/api/users/",
+      "status": 200,
+      "records": 13,
+      "detail_records": 13
+    },
+    "api__clients": {
+      "endpoint": "https://ics.greensparksolutions.com/api/clients/",
+      "status": 200,
+      "records": 200,
+      "detail_records": 200
+    },
+    "api__products": {
+      "endpoint": "https://ics.greensparksolutions.com/api/products/",
+      "status": 200,
+      "records": 2,
+      "detail_records": 2
+    },
+    "api__sales": {
+      "endpoint": "https://ics.greensparksolutions.com/api/sales/",
+      "status": 200,
+      "records": 0,
+      "detail_records": 0
+    },
+    "api__sale-installation": {
+      "endpoint": "https://ics.greensparksolutions.com/api/sale-installation/",
+      "status": 200,
+      "records": 200,
+      "detail_records": 200
+    },
+    "api__sale-attachments": {
+      "endpoint": "https://ics.greensparksolutions.com/api/sale-attachments/",
+      "status": 200,
+      "records": 0,
+      "detail_records": 0
+    },
+    "api__sale-service-monitors": {
+      "endpoint": "https://ics.greensparksolutions.com/api/sale-service-monitors/",
+      "status": 200,
+      "records": 0,
+      "detail_records": 0
+    },
+    "api__sale-monitoring-images": {
+      "endpoint": "https://ics.greensparksolutions.com/api/sale-monitoring-images/",
+      "status": 200,
+      "records": 0,
+      "detail_records": 0
+    },
+    "api__client-complaints": {
+      "endpoint": "https://ics.greensparksolutions.com/api/client-complaints/",
+      "status": 200,
+      "records": 0,
+      "detail_records": 0
+    },
+    "api__monitoring-forms": {
+      "endpoint": "https://ics.greensparksolutions.com/api/monitoring-forms/",
+      "status": 200,
+      "records": 0,
+      "detail_records": 0
+    },
+    "api__inventory__transactions": {
+      "endpoint": "https://ics.greensparksolutions.com/api/inventory/transactions/",
+      "status": 200,
+      "records": 5,
+      "detail_records": 5
+    },
+    "api__inventory__summary": {
+      "endpoint": "https://ics.greensparksolutions.com/api/inventory/summary/",
+      "status": 200,
+      "records": 1
+    },
+    "api__dashboard-summary": {
+      "endpoint": "https://ics.greensparksolutions.com/api/dashboard-summary/",
+      "status": 200,
+      "records": 1
+    },
+    "survey__surveys": {
+      "endpoint": "https://ics.greensparksolutions.com/survey/surveys/",
+      "status": 200,
+      "records": 80,
+      "detail_records": 80
+    },
+    "survey__survey-data": {
+      "endpoint": "https://ics.greensparksolutions.com/survey/survey-data/",
+      "status": 200,
+      "records": 1383,
+      "detail_records": 1383
+    },
+    "web__projects": {
+      "endpoint": "https://ics.greensparksolutions.com/web/projects/",
+      "status": 200,
+      "records": 1,
+      "detail_records": 1
+    },
+    "web__events": {
+      "endpoint": "https://ics.greensparksolutions.com/web/events/",
+      "status": 200,
+      "records": 0,
+      "detail_records": 0
+    },
+    "web__galleries": {
+      "endpoint": "https://ics.greensparksolutions.com/web/galleries/",
+      "status": 200,
+      "records": 1,
+      "detail_records": 1
+    },
+    "web__gallery-images": {
+      "endpoint": "https://ics.greensparksolutions.com/web/gallery-images/",
+      "status": 200,
+      "records": 18,
+      "detail_records": 18
+    },
+    "web__banner-sliders": {
+      "endpoint": "https://ics.greensparksolutions.com/web/banner-sliders/",
+      "status": 200,
+      "records": 4,
+      "detail_records": 4
+    },
+    "web__approaches": {
+      "endpoint": "https://ics.greensparksolutions.com/web/approaches/",
+      "status": 200,
+      "records": 1,
+      "detail_records": 1
+    },
+    "web__visions": {
+      "endpoint": "https://ics.greensparksolutions.com/web/visions/",
+      "status": 200,
+      "records": 1,
+      "detail_records": 1
+    },
+    "web__contacts": {
+      "endpoint": "https://ics.greensparksolutions.com/web/contacts/",
+      "status": 200,
+      "records": 1,
+      "detail_records": 1
+    },
+    "web__social-media-links": {
+      "endpoint": "https://ics.greensparksolutions.com/web/social-media-links/",
+      "status": 200,
+      "records": 1,
+      "detail_records": 1
+    },
+    "api": {
+      "endpoint": "https://ics.greensparksolutions.com/api/",
+      "status": 200,
+      "records": 1
+    },
+    "web": {
+      "endpoint": "https://ics.greensparksolutions.com/web/",
+      "status": 200,
+      "records": 1
+    },
+    "survey": {
+      "endpoint": "https://ics.greensparksolutions.com/survey/",
+      "status": 200,
+      "records": 1
+    },
+    "api__inventory": {
+      "endpoint": "https://ics.greensparksolutions.com/api/inventory/",
+      "status": 200,
+      "records": 1
+    },
+    "auth__user": {
+      "endpoint": "https://ics.greensparksolutions.com/auth/user/",
+      "status": 200,
+      "records": 1
+    }
+  }
+}

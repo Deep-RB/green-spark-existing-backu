@@ -1,0 +1,171 @@
+{
+  "id": 63,
+  "client": {
+    "id": 124,
+    "introducer_date": "29-12-2024",
+    "representative_name": "Roman Jony",
+    "representative_id": "GSSL005",
+    "head_office_location": {
+      "id": 15,
+      "name": "Manikganj Sadar",
+      "created_at": "2024-11-02T06:11:20.503772Z",
+      "updated_at": "2024-11-02T06:11:20.503792Z",
+      "division": 11,
+      "district": 18
+    },
+    "area_manager": "Md Monir Hossen",
+    "name": "Taslima Akter",
+    "date_of_birth": "07-11-1988",
+    "national_id": "5535926595",
+    "sex": "female",
+    "address": "Andharmanik, Manikganj municipality, Manikganj Sadar",
+    "house_no": "0",
+    "word_no": "8",
+    "upazila": {
+      "id": 15,
+      "name": "Manikganj Sadar",
+      "created_at": "2024-11-02T06:11:20.503772Z",
+      "updated_at": "2024-11-02T06:11:20.503792Z",
+      "division": 11,
+      "district": 18
+    },
+    "union_id": 3,
+    "union": {
+      "id": 3,
+      "name": "Manikganj Municipality"
+    },
+    "village_id": 4,
+    "village": {
+      "id": 4,
+      "name": "Andharmanik"
+    },
+    "total_family_members": 4,
+    "family_member_age_group": "1",
+    "no_of_adult_household": 3,
+    "no_of_children": 1,
+    "home_location_latitude": 23.8451286,
+    "home_location_longitude": 89.9901026,
+    "contact_no_mobile": "01725353819",
+    "email": "",
+    "device_id": "01789362670",
+    "cooking_device": "traditional",
+    "place_for_cooking": "indoor",
+    "type_of_fuel_used": "wood_bio_mixed",
+    "times_cook_per_day": "3",
+    "type_of_green_ics_offered": "single",
+    "date_of_collection": "29-12-2024",
+    "date_of_installation": "10-02-2025",
+    "field_user": {
+      "id": 62,
+      "username": "Roman",
+      "email": "jony75rj@gmail.com",
+      "first_name": "Roman",
+      "last_name": "Jony",
+      "role": "field_user",
+      "is_active": true,
+      "profile_picture": null
+    },
+    "field_supervisor": {
+      "id": 48,
+      "username": "admin11",
+      "email": "admin11@gmail.com",
+      "first_name": "Admin",
+      "last_name": "11",
+      "role": "admin",
+      "is_active": true,
+      "profile_picture": "/media/profile_pic/garden.png"
+    },
+    "status": "created",
+    "region": {
+      "id": 9,
+      "name": "Manikganj Sadar",
+      "latitude": null,
+      "longitude": null,
+      "division": {
+        "id": 11,
+        "name": "Dhaka",
+        "created_at": "2024-11-02T06:25:20.256746Z",
+        "updated_at": "2024-11-02T06:25:20.256751Z"
+      },
+      "district": {
+        "id": 18,
+        "name": "Manikganj",
+        "created_at": "2024-11-02T05:35:33.027736Z",
+        "updated_at": "2024-11-02T05:35:33.027752Z",
+        "division": 11
+      },
+      "upazila": {
+        "id": 15,
+        "name": "Manikganj Sadar",
+        "created_at": "2024-11-02T06:11:20.503772Z",
+        "updated_at": "2024-11-02T06:11:20.503792Z",
+        "division": 11,
+        "district": 18
+      },
+      "created_at": "2024-12-11T05:46:15.630494Z",
+      "updated_at": "2024-12-11T05:46:15.630502Z"
+    },
+    "created_at": "2025-10-21T11:13:50.880876Z",
+    "updated_at": "2025-10-21T11:13:50.880884Z",
+    "form_no": "64",
+    "age_group_count_0_14": 1,
+    "age_group_count_15_59": 4,
+    "age_group_count_60_plus": 0,
+    "pdf_file": "/media/0064_CAF.pdf",
+    "image1": "/media/client/0064_1.jpg",
+    "image2": "/media/client/0064_2.jpg",
+    "image3": null,
+    "is_active": true
+  },
+  "region": 9,
+  "region_details": {
+    "id": 9,
+    "name": "Manikganj Sadar",
+    "latitude": null,
+    "longitude": null,
+    "division": {
+      "id": 11,
+      "name": "Dhaka",
+      "created_at": "2024-11-02T06:25:20.256746Z",
+      "updated_at": "2024-11-02T06:25:20.256751Z"
+    },
+    "district": {
+      "id": 18,
+      "name": "Manikganj",
+      "created_at": "2024-11-02T05:35:33.027736Z",
+      "updated_at": "2024-11-02T05:35:33.027752Z",
+      "division": 11
+    },
+    "upazila": {
+      "id": 15,
+      "name": "Manikganj Sadar",
+      "created_at": "2024-11-02T06:11:20.503772Z",
+      "updated_at": "2024-11-02T06:11:20.503792Z",
+      "division": 11,
+      "district": 18
+    },
+    "created_at": "2024-12-11T05:46:15.630494Z",
+    "updated_at": "2024-12-11T05:46:15.630502Z"
+  },
+  "product": null,
+  "installation_date": "10-02-2025",
+  "form_no": "64",
+  "installer_name": "Anita Rajbongshi",
+  "installer_id": "GSSL008",
+  "device_id": "01849544287",
+  "head_office_location_id": "15",
+  "area_manager": "Md Monir Hossen",
+  "ics_code": null,
+  "type_of_green_ics_offered": "single",
+  "installed_area": "indoor",
+  "date_of_installation": "10-02-2025",
+  "next_monitoring_date": "10-05-2025",
+  "green_ics_serial_no": "64",
+  "status": "pending",
+  "pdf_file": "https://ics.greensparksolutions.com/media/0064_SIF.pdf",
+  "image1": "https://ics.greensparksolutions.com/media/installation/0064_1.jpg",
+  "image2": "https://ics.greensparksolutions.com/media/installation/0064_2.jpg",
+  "image3": "https://ics.greensparksolutions.com/media/installation/0064_3.jpg",
+  "location_latitude": 23.8451469,
+  "location_longitude": 89.9901018
+}

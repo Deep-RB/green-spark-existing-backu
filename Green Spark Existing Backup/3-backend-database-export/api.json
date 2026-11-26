@@ -1,0 +1,18 @@
+{
+  "divisions": "https://ics.greensparksolutions.com/api/divisions/",
+  "districts": "https://ics.greensparksolutions.com/api/districts/",
+  "upazilas": "https://ics.greensparksolutions.com/api/upazilas/",
+  "regions": "https://ics.greensparksolutions.com/api/regions/",
+  "unions": "https://ics.greensparksolutions.com/api/unions/",
+  "villages": "https://ics.greensparksolutions.com/api/villages/",
+  "users": "https://ics.greensparksolutions.com/api/users/",
+  "clients": "https://ics.greensparksolutions.com/api/clients/",
+  "products": "https://ics.greensparksolutions.com/api/products/",
+  "sales": "https://ics.greensparksolutions.com/api/sales/",
+  "sale-attachments": "https://ics.greensparksolutions.com/api/sale-attachments/",
+  "sale-service-monitors": "https://ics.greensparksolutions.com/api/sale-service-monitors/",
+  "client-complaints": "https://ics.greensparksolutions.com/api/client-complaints/",
+  "sale-monitoring-images": "https://ics.greensparksolutions.com/api/sale-monitoring-images/",
+  "sale-installation": "https://ics.greensparksolutions.com/api/sale-installation/",
+  "monitoring-forms": "https://ics.greensparksolutions.com/api/monitoring-forms/"
+}
